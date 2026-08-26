@@ -1,0 +1,9 @@
+return {
+	luau = {
+		languagemode = "strict",
+		aliases = {
+			lute = "~/.lute/typedefs/1.0.0/lute",
+			std = "~/.lute/typedefs/1.0.0/std",
+		},
+	},
+}

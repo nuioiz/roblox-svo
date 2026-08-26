@@ -1,0 +1,6 @@
+{
+  "name": "VoxelOctree",
+  "tree": {
+    "$path": "src"
+  }
+}
